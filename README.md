@@ -171,3 +171,6 @@ python scrapper/scrapper.py
 
 ### Database Table Data
 ![table data](./img/dbData.png)
+
+### Video demonstration
+```link: https://vimeo.com/1093811197/da5ac1b7c2?ts=0&share=copy
